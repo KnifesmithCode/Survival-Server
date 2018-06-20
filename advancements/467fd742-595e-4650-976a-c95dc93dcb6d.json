@@ -634,8 +634,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2018-06-20 12:06:53 -0500",
       "skeleton": "2018-06-19 22:20:14 -0500",
       "zombie": "2018-06-19 16:08:15 -0500",
+      "witch": "2018-06-20 11:57:52 -0500",
       "spider": "2018-06-19 22:52:30 -0500",
       "creeper": "2018-06-19 22:45:20 -0500"
     },
@@ -2097,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-06-20 11:59:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_the_recipe": "2018-06-19 16:06:52 -0500"
@@ -2340,6 +2348,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2018-06-19 16:06:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-06-20 12:09:47 -0500"
     },
     "done": true
   },
