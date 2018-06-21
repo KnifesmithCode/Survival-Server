@@ -560,6 +560,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-06-20 15:42:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2018-06-19 16:05:04 -0500"
@@ -639,7 +645,8 @@
       "zombie": "2018-06-19 16:08:15 -0500",
       "witch": "2018-06-20 11:57:52 -0500",
       "spider": "2018-06-19 22:52:30 -0500",
-      "creeper": "2018-06-19 22:45:20 -0500"
+      "creeper": "2018-06-19 22:45:20 -0500",
+      "enderman": "2018-06-20 14:04:15 -0500"
     },
     "done": false
   },
