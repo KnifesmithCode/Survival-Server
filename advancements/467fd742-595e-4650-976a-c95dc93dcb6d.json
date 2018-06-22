@@ -641,6 +641,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2018-06-20 12:06:53 -0500",
+      "slime": "2018-06-21 18:08:41 -0500",
       "skeleton": "2018-06-19 22:20:14 -0500",
       "zombie": "2018-06-19 16:08:15 -0500",
       "witch": "2018-06-20 11:57:52 -0500",
@@ -1139,6 +1140,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2018-06-19 22:47:15 -0500",
+      "swampland": "2018-06-21 18:08:26 -0500",
       "forest_hills": "2018-06-19 16:04:53 -0500",
       "plains": "2018-06-19 16:02:44 -0500",
       "taiga": "2018-06-09 15:51:24 -0500",
@@ -1234,6 +1236,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-06-19 16:06:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2018-06-21 23:20:15 -0500"
     },
     "done": true
   },
@@ -1679,6 +1687,7 @@
     "criteria": {
       "cooked_beef": "2018-06-19 16:05:40 -0500",
       "baked_potato": "2018-06-19 16:11:10 -0500",
+      "poisonous_potato": "2018-06-21 23:09:00 -0500",
       "bread": "2018-06-19 23:03:38 -0500",
       "beetroot": "2018-06-19 22:44:12 -0500"
     },
@@ -2037,6 +2046,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2018-06-19 16:06:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-06-21 00:52:16 -0500"
     },
     "done": true
   },
