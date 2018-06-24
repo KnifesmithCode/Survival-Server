@@ -1,82 +1,83 @@
 {
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_leather": "2018-05-30 23:25:14 +0000"
+      "has_leather": "2018-05-30 18:25:14 -0500"
     },
     "done": true
   },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_leather": "2018-05-30 23:25:14 +0000"
+      "has_leather": "2018-05-30 18:25:14 -0500"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "entered_water": "2018-05-30 23:24:09 +0000"
+      "entered_water": "2018-05-30 18:24:09 -0500"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2018-05-30 23:24:09 +0000"
+      "entered_water": "2018-05-30 18:24:09 -0500"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "entered_water": "2018-05-30 23:24:09 +0000"
+      "entered_water": "2018-05-30 18:24:09 -0500"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_something": "2018-05-30 23:22:42 +0000"
+      "killed_something": "2018-05-30 18:22:42 -0500"
     },
     "done": true
   },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "entered_water": "2018-05-30 23:24:09 +0000"
+      "entered_water": "2018-05-30 18:24:09 -0500"
     },
     "done": true
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "has_leather": "2018-05-30 23:25:14 +0000"
+      "has_leather": "2018-05-30 18:25:14 -0500"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2018-05-30 23:24:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2018-05-30 23:25:14 +0000"
+      "entered_water": "2018-05-30 18:24:09 -0500"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2018-05-30 23:24:09 +0000"
+      "entered_water": "2018-05-30 18:24:09 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_leather": "2018-05-30 23:25:14 +0000"
+      "has_leather": "2018-05-30 18:25:14 -0500"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "plains": "2018-05-30 23:22:46 +0000",
-      "taiga": "2018-05-30 23:22:21 +0000",
-      "extreme_hills": "2018-05-30 23:24:53 +0000"
+      "extreme_hills_with_trees": "2018-06-23 21:40:45 -0500",
+      "plains": "2018-05-30 18:22:46 -0500",
+      "taiga": "2018-05-30 18:22:21 -0500",
+      "extreme_hills": "2018-05-30 18:24:53 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-05-30 18:25:14 -0500"
+    },
+    "done": true
   }
 }
